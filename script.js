@@ -18,7 +18,7 @@ function HumanoidRobot(direction) {
 }
 
 
-// return value when HumanoidRobot("come towards Daddy");
+// return value when HumanoidRobot("move forward");
 window.HumanoidRobot("move forward");
   // Output: undefined.
 
@@ -28,6 +28,6 @@ window.HumanoidRobot("turn left");
   // Output: "Now move right".
 
 
-// return value when HumanoidRobot("turn left");
+// return value when HumanoidRobot("turn right");
 window.HumanoidRobot("turn right");
   // Output: "Now sit down".
