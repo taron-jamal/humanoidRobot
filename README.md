@@ -1,0 +1,2 @@
+# humanoidRobot
+Ternary operator example.
